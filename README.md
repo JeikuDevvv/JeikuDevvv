@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jake Lourence Villar (Jeiku Devvv)</h1>
 <h3 align="center">Wazzapp Mananaps!</h3>
+img align="right" alt="Coding" width="400" src="https://i.imgur.com/sFOnOOA.gif"
 
 - 🔭 I’m currently working on [Jeiku App](https://github.com/JeikuDevvv/Jeiku_App)
 
