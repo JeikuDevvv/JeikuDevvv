@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Shippai.jeikudev@gmail.com**
 
-- ⚡ Fun fact **I love basketball and obviously doughnuts!!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
