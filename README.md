@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Jeiku App](https://github.com/JeikuDevvv/Jeiku_App)
 
--
+- 🌱 I’m currently learning **React Native, Mobile App in General**
 
 - 🤝 I’m looking for help with [Jeiku App](https://github.com/JeikuDevvv/Jeiku_App)
 
