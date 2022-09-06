@@ -3,7 +3,7 @@
 <h3 align="center">Wazzapp Mananaps!</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/f93e4be417971f6bb17a674f10dab230/tumblr_n612mnHH2f1sa39ogo1_500.gifv">
 
-
+awdwda
 - 🔭 I’m currently working on [Jeiku App](https://github.com/JeikuDevvv/Jeiku_App)
 
 - 🌱 I’m currently learning **React Native, Mobile App in General**
